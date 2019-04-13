@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular7-inmemory-api';
+  title = 'Angular 7 In-Memory Web API';
 }
